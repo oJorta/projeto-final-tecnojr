@@ -19,12 +19,6 @@ dropdowns.forEach(dropdown =>{
             select.classList.remove('select-clicked');
             caret.classList.remove('caret-rotate');
             menu.classList.remove('menu-open');
-            /*
-            option.forEach(option =>{
-                option.classList.remove('active');
-            });
-            option.classList.add('active');
-            */
         });
     });
 });

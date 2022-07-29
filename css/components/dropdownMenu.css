@@ -55,7 +55,7 @@
     border: 1px #363a43 solid;
     box-shadow: 0 0.5em 1em rgba(0,0,0,0.2);
     border-radius: 5px;
-    color: orange;
+    color: orange;  
     opacity: 0;
     display: none;
     transition: 0.2s;
@@ -64,7 +64,6 @@
 
 .menu li{
     padding: 0.7em 0.5em;
-    margin-trim: 0.3em 0;
     border-radius: 0.5em;
     cursor: pointer;
 }
