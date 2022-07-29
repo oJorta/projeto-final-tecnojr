@@ -68,3 +68,14 @@ main{
 button:hover{
     cursor: pointer;
 }
+
+@media only screen and (max-width: 480px){
+    #selectMoedas{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    #coinAndAmount{
+        padding-right: 20px;
+    }
+}
